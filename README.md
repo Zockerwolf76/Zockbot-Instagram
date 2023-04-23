@@ -1,4 +1,4 @@
-Zockbot v1.0 (deprecated)
+#Zockbot v1.0 (deprecated)
 # Instagram bot,auto follower
 ## Recoded: https://github.com/Zockerwolf76/Zockbot-Instagram
 ### Features:
